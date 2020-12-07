@@ -9,6 +9,8 @@ This tweak adds multi-window capability to iOS, just like a modern desktop OS.
 For example, you can play a game and have other apps open at the same time, or even control (tap) other apps at the same time.
 
 ### Usage
+**The first time you start, you will need access to settings to activate the tweak!**
+
 Windowing your app: In AppSwitcher, long tap on the target app
 
 Close window: Tap the red button
@@ -52,6 +54,11 @@ If a tweak causes a crash, it is mandatory to submit a crash log for it.
 We also reserve the right to refuse a refund in the unlikely event that the bug is specific to your device, caused by another tweak, or caused by software designed to crack it.
 
 Also, due to the way this tweak works, the app may be forced to quit due to lack of memory if a large number of apps are windowed. This is unlikely to happen in general use, but this is a specification.
+
+### Notice
+We collect the UDID and device model, only for activating tweak.
+
+Your device has to be connected to Packix to download license file only when you access to its preference.
 
 ### Contribution
 If you would like to contribute to this tweak, you are welcome to help with the translation.
