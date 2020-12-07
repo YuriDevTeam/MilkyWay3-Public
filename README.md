@@ -8,6 +8,19 @@ This tweak adds multi-window capability to iOS, just like a modern desktop OS.
 
 For example, you can play a game and have other apps open at the same time, or even control (tap) other apps at the same time.
 
+### Usage
+Windowing your app: In AppSwitcher, long tap on the target app
+
+Close window: Tap the red button
+
+Minimise window: Tap the yellow button
+
+Maximise window: Tap the green button
+
+Move window: Hold and move the top bar
+
+Resize window: hold the grey button on the right end of the top bar to resize (double tap to lock/unlock aspect ratio)
+
 ### Support
 This tweak works on all versions and devices from iOS 13 to iOS 14.
 
