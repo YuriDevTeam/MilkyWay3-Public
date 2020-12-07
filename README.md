@@ -1,6 +1,6 @@
 # MilkyWay 3
 ### MilkyWay 3 is the most advanced tweak for multitasking
-Features
+**Features**
 - Multi-window mode
 - Resizing each windows
 
