@@ -1,0 +1,9 @@
+{
+    "Advanced" = "Advanced";
+    "Dark Mode" = "Dark Mode";
+    "Enable Scaling Mode" = "Enable Scaling Mode";
+    "ADVANCED_DESCRIPTION" = "Dark Mode: Sets the MilkyWay 3 UI to Dark Mode.\nScaling Mode: Rescale the windowed app.\nThese are experimental features and may not work as expected.";
+
+    "Other" = "Other";
+    "Respring" = "Respring";
+}

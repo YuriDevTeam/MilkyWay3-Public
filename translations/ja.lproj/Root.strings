@@ -1,0 +1,9 @@
+{
+    "Advanced" = "実験的機能";
+    "Dark Mode" = "ダークモード";
+    "Enable Scaling Mode" = "スケーリングモード";
+    "ADVANCED_DESCRIPTION" = "ダークモード: MilkyWay 3のUIをダークモード化します\nスケーリングモード: ウィンドウ化したアプリを再スケールします\nこれらの機能は実験的で、うまく動作しない可能性があります";
+
+    "Other" = "その他";
+    "Respring" = "Respring";
+}
