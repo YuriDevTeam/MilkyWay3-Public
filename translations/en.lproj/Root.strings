@@ -1,4 +1,6 @@
 {
+    "Enabled" = "Enabled";
+
     "Advanced" = "Advanced";
     "Dark Mode" = "Dark Mode";
     "Enable Scaling Mode" = "Enable Scaling Mode";
@@ -6,4 +8,6 @@
 
     "Other" = "Other";
     "Respring" = "Respring";
+    "Support" = "Support";
+    "RESPRING_DESCRIPTION" = "Requires Respring to update the settings";
 }
