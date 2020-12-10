@@ -41,6 +41,10 @@ If you need help, please contact Discord. (English only)
 
 We recommend following our account on Twitter to receive the latest version information.
 
+### Feature Request
+
+[You can submit feature requests here](https://mw3.hearken.io/)
+
 ### Future Updates
 
 We are going to maintain this package up to the last minor update of iOS 15.
