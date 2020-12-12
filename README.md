@@ -75,6 +75,20 @@ We also reserve the right to refuse a refund in the unlikely event that the bug 
 
 Also, due to the way this tweak works, the app may be forced to quit due to lack of memory if a large number of apps are windowed. This is unlikely to happen in general use, but this is a specification.
 
+### Troubleshooting
+
+**Tweak is not working properly**
+
+We have tested this software many times during its development.
+
+However, it is still possible for bugs to occur.
+
+If we receive a bug report similar to the one you are facing, we will address it as soon as possible.
+
+However, if the bug is specific to your device, most likely due to a tweak conflict or network environment, we will not be able to help you.
+
+If this is the case, please use iCleaner or similar to disable all tweaks except MilkyWay3 or change your network environment.
+
 ### Notice
 
 We collect the UDID and device model, only for activating tweak.
