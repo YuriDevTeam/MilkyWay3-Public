@@ -6,6 +6,9 @@
 
 - Multi-window mode
 - Resizing each windows
+- Minimising / Maximising windows
+
+... and more!
 
 This tweak adds multi-window capability to iOS, just like a modern desktop OS.
 
