@@ -31,6 +31,10 @@
 
 この Tweak は、iOS 13 から iOS 14 までのすべてのバージョンの iOS デバイスで動作します。
 
+ただし、iOS13 のサポートは checkra1n が iOS14 に完全対応するまでとなります。
+
+checkra1n や他のソフトウェアを使用してすべての iOS14 デバイスをジェイルブレイクできるようになった場合、iOS13 のサポートは終了します。
+
 最新バージョンで問題が発生した場合は、私達にご連絡ください。できるだけ早く修正するために最善を尽くします。
 
 サポートは Twitter の[@soh_satoh](https://twitter.com/soh_satoh)、または[公式 Discord アカウント](https://discord.com/invite/Ab2ZF9m)で受け付けています。
