@@ -34,9 +34,9 @@ Resize window: hold the grey button on the right end of the top bar to resize (d
 
 This tweak works on all versions and devices from iOS 13 to iOS 14.
 
-However, support for iOS13 will only be available until checkra1n is fully compatible with iOS14.
+However, although we will maintain support for iOS13 wherever possible, the new features may only be compatible with iOS14.
 
-If all iOS14 devices can be jailbroken using checkra1n or any other software, we will no longer support iOS13.
+So, we recommend that you update your device if the iOS14 jailbreak is released.
 
 If you encounter any problems with the latest version, please contact us. We will do our best to fix it as soon as possible.
 
