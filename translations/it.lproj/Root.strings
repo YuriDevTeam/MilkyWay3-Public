@@ -4,10 +4,15 @@
     "Advanced" = "Avanzato";
     "Dark Mode" = "Modalità Scura";
     "Enable Scaling Mode" = "Abilita modalità Ridimensionamento";
-    "ADVANCED_DESCRIPTION" = "Modalità Scura: Imposta la UI di MilkyWay 3 in modalità Scura\ridimensionamento: Ridimensiona l'app con finestra.\Queste sono funzioni sperimentali e potrebbero non funzionare come dovrebbero.";
+    "ADVANCED_DESCRIPTION" = "Modalità Scura: Imposta la UI di MilkyWay 3 in modalità Scura\nRidimensionamento: Ridimensiona l'app con finestra.\nQueste sono funzioni sperimentali e potrebbero non funzionare come dovrebbero.";
 
     "Other" = "Altro";
     "Respring" = "Respring";
-    "Support" = "Supporto";
     "RESPRING_DESCRIPTION" = "Richiede un Respring per aggiornare le impostazioni";
+
+    "Support" = "Supporto";
+    "Feature Requests" = "Richieste di caratteristiche";
+    "Add or revise translations" = "Aggiungere o rivedere le traduzioni";
+
+    "TRANSLATED_BY" = "Tradotto da Luca Geek (@CydiaGeek)";
 }

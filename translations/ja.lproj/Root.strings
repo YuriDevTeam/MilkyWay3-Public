@@ -8,6 +8,11 @@
 
     "Other" = "その他";
     "Respring" = "Respring";
-    "Support" = "サポート";
     "RESPRING_DESCRIPTION" = "設定の反映にはRespringが必要です";
+
+    "Support" = "サポート";
+    "Feature Requests" = "機能追加の要望";
+    "Add or revise translations" = "翻訳の追加・改善";
+
+    "TRANSLATED_BY" = "";
 }

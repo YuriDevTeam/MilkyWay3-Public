@@ -8,6 +8,11 @@
 
     "Other" = "Other";
     "Respring" = "Respring";
-    "Support" = "Support";
     "RESPRING_DESCRIPTION" = "Requires Respring to update the settings";
+
+    "Support" = "Support";
+    "Feature Requests" = "Feature Requests";
+    "Add or revise translations" = "Add or revise translations";
+
+    "TRANSLATED_BY" = "";
 }
