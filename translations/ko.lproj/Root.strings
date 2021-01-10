@@ -1,0 +1,18 @@
+{
+    "Enabled" = "활성화";
+
+    "Advanced" = "고급";
+    "Dark Mode" = "다크 모드";
+    "Enable Scaling Mode" = "사이즈 조정 모드 활성화";
+    "ADVANCED_DESCRIPTION" = "다크 모드: MilkyWay 3의 인터페이스를 어둡게 합니다.\n사이즈 조정 모드: 창의 사이즈를 조정할 수 있게 됩니다.\n이 기능들은 실험적이며 제대로 작동하지 않을 수 있습니다.";
+
+    "Other" = "기타";
+    "Respring" = "리스프링";
+    "RESPRING_DESCRIPTION" = "설정을 반영하기 위해서 리스프링이 필요합니다.";
+
+    "Support" = "지원";
+    "Feature Requests" = "기능 요청";
+    "Add or revise translations" = "번역을 추가하거나 수정하기";
+
+    "TRANSLATED_BY" = "@NoaHimesaka1873 on Twitter";
+}
