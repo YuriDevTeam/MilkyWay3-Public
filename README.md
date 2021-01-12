@@ -111,3 +111,5 @@ Please send a pull request to this Github page.
 ### Do you want to read this sentence in another language?
 
 [日本語の説明文はこちら](https://github.com/YuriDevTeam/MilkyWay3-Public/blob/main/README_ja.md)
+
+[이 글을 한국어로 읽기](README_ko.md)
