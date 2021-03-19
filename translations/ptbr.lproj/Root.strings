@@ -1,0 +1,18 @@
+{
+    "Habilitado" = "Habilitado";
+
+    "Avançado" = "Avançado";
+    "Modo Noturno" = "Modo Noturno";
+    "Habilitar Modo Escalação" = "Habilitar Modo Escalação";
+    "ADVANCED_DESCRIPTION" = "Modo Noturno: Altera a UI do MilkyWay 3 para o modo noturno.\nModo escalação: Permite alterar a escala da janela do aplicativo aberto.\nEssas são ferramentas experimentais e podem não funcionar como esperado.";
+
+    "Outro" = "Outro";
+    "Respring" = "Respring";
+    "RESPRING_DESCRIPTION" = "O Respring é necessário para atualizar as configurações";
+
+    "Suporte" = "Suporte";
+    "Pedidos de Novas Funções" = "Pedidos de Novas Funções";
+    "Adicionar ou revisar traduções" = "Adicionar ou revisar traduções";
+
+    "TRANSLATED_BY" = "Pedro P.P Furtado";
+}
