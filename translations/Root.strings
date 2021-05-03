@@ -1,0 +1,19 @@
+
+{
+    "Enabled" = "Ativado";
+
+    "Advanced" = "Avançado";
+    "Dark Mode" = "Modo Escuro";
+    "Enable Scaling Mode" = "Habilitar Modo de Escala";
+    "ADVANCED_DESCRIPTION" = "Modo escuro: define a IU do MilkyWay 3 para o modo escuro. \N Modo de escala: redimensione o aplicativo em janela. \N Estes são recursos experimentais e podem não funcionar como esperado.";
+
+    "Other" = "Outros";
+    "Respring" = "Respring";
+    "RESPRING_DESCRIPTION" = "Requer Respring para atualizar as configurações";
+
+    "Support" = "Suporte";
+    "Feature Requests" = "Solicitações de recursos";
+    "Add or revise translations" = "Adicionar ou revisar traduções";
+
+    "TRANSLATED_BY" = "Traduzido Por";
+}
